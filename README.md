@@ -6,7 +6,7 @@ O desafio era criar um jogo da velha de terminal em C# com todas as funcionalida
 
 ### Caracteristicas do software desenvolvido:
 
-1. Possibilidade de jogar continuamente.
+1. Possibilidade de jogar repetidamente.
 2. Opção de jogar contra um colega localmente, ou contra a máquina.
 3. Seleção aleatória do primeiro jogador em ambas as modalidades
 4. Executável em arquivo único e ícone.
