@@ -9,4 +9,4 @@ O desafio era criar um jogo da velha de terminal em C# com todas as funcionalida
 1. Possibilidade de jogar repetidamente.
 2. Opção de jogar contra um colega localmente, ou contra a máquina.
 3. Seleção aleatória do primeiro jogador em ambas as modalidades
-4. Executável em arquivo único e ícone.
+4. Executável em arquivo único com ícone.
